@@ -34,7 +34,7 @@ const Hero = () => {
               platform='Figma'
               text='We are looking for an experienced front-end developer to join our team.'
               tag='Rust'
-              currency='$70,000 - $90,000'
+              currency='₹70,000 - ₹90,000'
             />
             <Cardhero 
               imgUrl={Facebook}
@@ -42,7 +42,7 @@ const Hero = () => {
               platform='Facebook'
               text='We are seeking a data scientist to join our team'
               tag='Python'
-              currency='$100,000 - $130,000'
+              currency='₹1,00,000 - ₹1,30,000'
             />
             <Cardhero 
               imgUrl={Vercel}
@@ -50,7 +50,7 @@ const Hero = () => {
               platform='Vercel'
               text='We are seeking a technical writer to join our team.'
               tag='Documentation'
-              currency='$60,000 - $80,000'
+              currency='₹60,000 - ₹80,000'
             />
           </div>
         </div>
